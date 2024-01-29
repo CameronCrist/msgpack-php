@@ -1,5 +1,5 @@
 {
-  "extends": [
+* "extends": [
     "config:base",
     "docker:disable",
     ":disableDependencyDashboard"
@@ -18,3 +18,4 @@
   ],
   "ignoreDeps": ["typescript"]
 }
+ 
